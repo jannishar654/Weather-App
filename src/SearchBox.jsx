@@ -4,6 +4,7 @@ import { useState } from 'react';
 
 
 
+
 export default function SearchBox(){
     let [city, setCity] = useState(""); 
 
